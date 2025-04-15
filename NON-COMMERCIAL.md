@@ -17,4 +17,4 @@ If you wish to use KarmaMeter™ for commercial purposes, please contact:
 ### Why This Policy?
 The non-commercial clause ensures KarmaMeter™ remains a tool for public good, digital well-being, and community-driven development—not a product for exploitation.
 
-Thank you for respecting this intent.
+Thank you for respecting this intent...
