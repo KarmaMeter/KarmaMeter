@@ -1,6 +1,6 @@
 # Non-Commercial Use Policy
 
-**KarmaMeter™** is a project developed and maintained by **Dhanesh Sanjeev Tatuskar**. It is licensed under the GNU Affero General Public License (AGPLv3) with an additional restriction:
+**KarmaMeter™** is a project developed and maintained by **Dhanesh Sanjeev Tatuskar** (Copyright © 2025). It is licensed under the GNU Affero General Public License (AGPLv3) with an additional restriction:
 
 > This software is provided **strictly for non-commercial use**. Any commercial reproduction, distribution, hosting, or adaptation of KarmaMeter™, in whole or in part, is **prohibited** without prior written consent from the author.
 
