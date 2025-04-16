@@ -120,3 +120,5 @@ Thank you for helping spread positivity! ✨
 
 KarmaMeter™ is © 2025 Dhanesh Sanjeev Tatuskar. All rights reserved.  
 This project is protected under copyright law.
+
+KarmaMeter™ is a conscious trademark. Visual identity is evolving with purpose.
