@@ -8,9 +8,9 @@ KarmaMeter™ is a mission-driven project focused on collective well-being, trut
 
 All source code in this repository is licensed under the [GNU Affero General Public License v3 (AGPLv3)](https://www.gnu.org/licenses/agpl-3.0.html). This license was selected to:
 
-- ✅ Guarantee freedom to use, study, modify, and share  
-- ✅ Ensure that **modifications made in hosted services** are also shared  
-- 🚫 Prevent closed forks or proprietary monetization of KarmaMeter™  
+- ✅ Guarantee freedom to use, study, modify, and share
+- ✅ Ensure that **modifications made in hosted services** are also shared
+- 🚫 Prevent closed forks or proprietary monetization of KarmaMeter™
 - ✅ Support community collaboration while preserving user freedoms
 
 AGPLv3 aligns with KarmaMeter’s purpose as an **ethical flagship tool**, not a commercial product.
@@ -21,26 +21,13 @@ AGPLv3 aligns with KarmaMeter’s purpose as an **ethical flagship tool**, not a
 
 All **non-code content**—including documentation, designs, UI mockups, and social media templates—is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This content license:  
-- 📤 Allows sharing and remixing  
-- 📚 Encourages learning and adaptation  
-- 🚫 Prohibits commercial exploitation  
-- 🔁 Requires share-alike reuse with attribution  
+This content license:
+- 📤 Allows sharing and remixing
+- 📚 Encourages learning and adaptation
+- 🚫 Prohibits commercial exploitation
+- 🔁 Requires share-alike reuse with attribution
 
 It protects the educational intent while promoting creative freedom in the community.
-
----
-
-## ❓Why Not MIT License?
-
-The MIT License is a popular permissive license that allows full reuse, including commercial reuse, without requiring derivative works to remain open.
-
-We intentionally did **not** choose MIT because:  
-- It allows proprietary forks of ethical projects  
-- It enables usage in products that could conflict with KarmaMeter’s purpose  
-- It doesn’t require openness or attribution in hosted SaaS deployments
-
-By choosing a more restrictive license, we ensure KarmaMeter™ stays aligned with its values of openness, transparency, and non-commercial usage.
 
 ---
 
