@@ -9,12 +9,25 @@ This includes, but is not limited to:
 - Using it as a backend for paid services or SaaS platforms
 - Integrating it into proprietary products or services for profit
 
-If you wish to use KarmaMeter™ for commercial purposes, please contact:  
+---
+
+## 📩 Commercial Use Requests
+
+While KarmaMeter™ is intended solely for non-commercial purposes, we are open to reviewing requests for **ethical** and **mission-aligned commercial use**. If you believe your use of KarmaMeter™ aligns with its purpose of promoting digital well-being and positivity, we encourage you to reach out for discussion.
+
+For inquiries about commercial use, please contact us via email:  
 📧 **karmameter.global@gmail.com**
 
 ---
 
 ### Why This Policy?
-The non-commercial clause ensures KarmaMeter™ remains a tool for public good, digital well-being, and community-driven development—not a product for exploitation.
+
+The non-commercial clause ensures that KarmaMeter™ remains a tool for **public good**, **digital well-being**, and **community-driven development** — not a product for exploitation. By limiting commercial use, we ensure that the project stays focused on its ethical goals and mission of fostering truth, clarity, and peace in digital spaces.
 
 Thank you for respecting this intent.
+
+---
+
+### Copyright Notice
+
+KarmaMeter™ is © 2025 Dhanesh Sanjeev Tatuskar. All rights reserved.
