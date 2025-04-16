@@ -5,9 +5,10 @@
 It uses principles of:
 - 📊 Sentiment analysis  
 - 🧠 Truthfulness estimation  
-- 🧘‍♀️ Collective consciousness modeling
+- 🧘‍♀️ Collective consciousness modeling  
+- ✨ Factual summarization and negativity filtering  
 
-to compute a **karma score** for messages and group interactions.
+to compute a **karma score** and enhance the quality of messages and group interactions.
 
 ---
 
@@ -17,6 +18,7 @@ This project aims to:
 - Encourage conscious communication  
 - Track digital positivity  
 - Reward truthfulness & emotional harmony  
+- Promote clarity through summarization and the removal of toxic patterns  
 
 KarmaMeter™ is not a product — it is a **tool for positive transformation and public good**.
 
@@ -27,9 +29,23 @@ KarmaMeter™ is not a product — it is a **tool for positive transformation an
 1. **Message parsing** from chat exports or APIs  
 2. **Sentiment & truth scoring** using NLP and user-trained models  
 3. **Karma score generation** per message, user, and group  
-4. **Visualizations** of group health and positivity over time  
+4. **Factual summarization** of message threads to highlight meaningful insights and reduce noise  
+5. **Negativity filtering** to detect and flag harmful, false, or divisive content  
+6. **Visualizations** of group health and positivity over time  
 
 Coming soon: a web dashboard, browser extension, and mobile integrations.
+
+---
+
+## 🧪 Core Innovation Highlight
+
+**✨ Factual & Truth-Centered Filtering Engine**
+
+KarmaMeter introduces a new layer of intelligence that:
+- Automatically **summarizes key informative points** from long or cluttered chats  
+- Detects and filters **emotionally manipulative or misleading content**  
+- Encourages users to communicate with **truth, clarity, and peace**  
+- Is inspired by a vision of **Satyug** – an age of universal truth and dharma
 
 ---
 
@@ -74,8 +90,8 @@ The source code in this repository is licensed under the
 
 Stay connected and join the conversation on our social media:
 - **X (formerly Twitter)**: [@KarmaMeterOrg](https://x.com/KarmaMeterOrg)
-- **Instagram**: [@karmameter official](https://instagram.com/karmameter_official)
-- 🌐 Follow KarmaMeter on FaceBook: *Coming soon!*
+- **Instagram**: [@karmameter_official](https://instagram.com/karmameter_official)
+- 🌐 Follow KarmaMeter on Facebook: *Coming soon!*  
 - 🌐 Follow KarmaMeter on LinkedIn: *Coming soon!*
 
 ---
