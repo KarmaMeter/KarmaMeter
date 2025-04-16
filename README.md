@@ -1,5 +1,12 @@
 # KarmaMeter™ – A Truth & Positivity Engine for Group Chats
 
+![KarmaMeter™ – Conscious Beta](assets/ConsciousBeta.png)
+
+> *“Truth is the New Algorithm.”*  
+> 🧘 KarmaMeter™ is in **Conscious Beta** – a purpose-driven open-source tool for digital well-being, clarity, and conscious communication.
+
+---
+
 **KarmaMeter™** is an open-source project built to **measure and elevate the spiritual, emotional, and ethical quality of digital communication**, focusing on **group chats** (like WhatsApp, Telegram) and **other social media platforms**. It aims to foster conscious communication and positivity in all forms of online interaction.
 
 It uses principles of:
