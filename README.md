@@ -72,6 +72,14 @@ KarmaMeter introduces a new layer of intelligence that:
 
 ---
 
+## 🔒 Private Algorithm Notice
+
+**Certain core components of KarmaMeter, such as the summarizer and emotion-filter algorithms, are currently withheld** to maintain the integrity and ethical standards of the project. These algorithms are critical to the unique functionality of KarmaMeter and will be made available **under specific conditions** to contributors or partners who align with the project's mission and ethical guidelines.
+
+To access the private parts of the code or discuss potential collaborations, please contact the project maintainer at **karmameter.global@gmail.com**.
+
+---
+
 ## 👨‍💻 Developed by
 
 **Dhanesh Sanjeev Tatuskar**  
