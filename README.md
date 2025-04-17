@@ -5,6 +5,22 @@
 > *“Truth is the New Algorithm.”*  
 > 🧘 KarmaMeter is in **Conscious Beta** – a purpose-driven open-source tool for digital well-being, clarity, and conscious communication.
 
+> ⚠️ **Legal Notice: Protected for Non-Commercial Use Only**
+>
+> **KarmaMeter™** is a non-commercial, open-source initiative created solely for societal well-being, emotional clarity, and conscious communication.
+>
+> **You are *not allowed* to use any part of this project — including its name, algorithmic concepts, summaries, sentiment/truth filters, or visual identity — for commercial or profit-making purposes.**
+>
+> This includes (but is not limited to):
+> - Selling apps or services based on KarmaMeter™  
+> - Embedding KarmaMeter features in commercial products  
+> - Using KarmaMeter-generated scores or visualizations for paid offerings  
+> - Claiming ownership or sublicensing any part of this work
+>
+> To discuss fair use, educational collaborations, or spiritual alliances, please contact the author at **karmameter.global@gmail.com**.
+>
+> 🧘 KarmaMeter is **open-source**, not **open-for-exploitation**.
+
 ---
 
 **KarmaMeter** is an open-source project built to **measure and elevate the spiritual, emotional, and ethical quality of digital communication**, focusing on **group chats** (like WhatsApp, Telegram) and **other social media platforms**. It aims to foster conscious communication and positivity in all forms of online interaction.
@@ -137,4 +153,3 @@ All trademarks, including "KarmaMeter" and associated visuals, are protected und
 
 This project is submitted in the spirit of open-source innovation, collective well-being, and public benefit.  
 We invite ethical collaborations, mentorship, and alliances to scale KarmaMeter responsibly and consciously.
-
