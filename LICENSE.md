@@ -11,4 +11,5 @@ You should have received a copy of the GNU Affero General Public License along w
 
 ---
 
-**Dhanesh Sanjeev Tatuskar** is the copyright holder of **KarmaMeter**. All contributions should be licensed under AGPLv3.
+**Dhanesh Sanjeev Tatuskar** is the copyright holder of **KarmaMeter**.  
+All contributions should be licensed under AGPLv3.
