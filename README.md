@@ -1,13 +1,13 @@
-# KarmaMeter™ – A Truth & Positivity Engine for Group Chats
+# KarmaMeter – A Truth & Positivity Engine for Group Chats
 
-![KarmaMeter™ – Conscious Beta](assets/ConsciousBeta.png)
+![KarmaMeter – Conscious Beta](assets/ConsciousBeta.png)
 
 > *“Truth is the New Algorithm.”*  
-> 🧘 KarmaMeter™ is in **Conscious Beta** – a purpose-driven open-source tool for digital well-being, clarity, and conscious communication.
+> 🧘 KarmaMeter is in **Conscious Beta** – a purpose-driven open-source tool for digital well-being, clarity, and conscious communication.
 
 ---
 
-**KarmaMeter™** is an open-source project built to **measure and elevate the spiritual, emotional, and ethical quality of digital communication**, focusing on **group chats** (like WhatsApp, Telegram) and **other social media platforms**. It aims to foster conscious communication and positivity in all forms of online interaction.
+**KarmaMeter** is an open-source project built to **measure and elevate the spiritual, emotional, and ethical quality of digital communication**, focusing on **group chats** (like WhatsApp, Telegram) and **other social media platforms**. It aims to foster conscious communication and positivity in all forms of online interaction.
 
 It uses principles of:
 - 📊 Sentiment analysis  
@@ -27,7 +27,7 @@ This project aims to:
 - Reward truthfulness & emotional harmony  
 - Promote clarity through summarization and the removal of toxic patterns  
 
-KarmaMeter™ is not a product — it is a **tool for positive transformation and public good**.
+KarmaMeter is not a product — it is a **tool for positive transformation and public good**.
 
 ---
 
@@ -66,7 +66,7 @@ Open-source researcher & digital well-being advocate
 
 ## 💡 Non-Commercial Use
 
-KarmaMeter™ is provided **strictly for non-commercial use**.  
+KarmaMeter is provided **strictly for non-commercial use**.  
 To use it commercially, reach out via the contact above.
 
 ---
@@ -93,6 +93,14 @@ The source code in this repository is licensed under the
 
 ---
 
+## 🛡️ Legal & Licensing Documents
+
+- 📜 [Contributor License Agreement (CLA.md)](CLA.md)  
+- 📘 [Branding & Trademark License (branding_license.md)](branding_license.md)  
+- 📎 [Third-Party Licenses (third_party_licenses.md)](third_party_licenses.md)
+
+---
+
 ## 📱 Follow Us
 
 Stay connected and join the conversation on our social media:
@@ -116,9 +124,17 @@ Thank you for helping spread positivity! ✨
 
 ---
 
-## 📜 Copyright Notice
+## © Copyright
 
-KarmaMeter™ is © 2025 Dhanesh Sanjeev Tatuskar. All rights reserved.  
-This project is protected under copyright law.
+KarmaMeter is © 2025 Dhanesh Sanjeev Tatuskar. All rights reserved.  
+All trademarks, including "KarmaMeter" and associated visuals, are protected under common law trademark rights and evolving conscious use guidelines.
 
-KarmaMeter™ is a conscious trademark. Visual identity is evolving with purpose.
+🌀 The KarmaMeter visual identity is a **conscious trademark**, currently in **open spiritual development**.
+
+---
+
+## 🧭 For MIT Solve & Public Interest Orgs
+
+This project is submitted in the spirit of open-source innovation, collective well-being, and public benefit.  
+We invite ethical collaborations, mentorship, and alliances to scale KarmaMeter responsibly and consciously.
+
